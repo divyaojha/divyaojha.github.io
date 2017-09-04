@@ -2,7 +2,7 @@
 title: Divya Ojha
 ---
 
-<img src="divya.jpg" alt="divya" style="width: 400px;"/>
+<img src="divya.jpg" alt="divya" style="width: 250px;"/>
 <br/>
 Look at me!
 
