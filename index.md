@@ -2,6 +2,6 @@
 title: Divya Ojha
 ---
 
-![divja](divya.jpg =400x)
+<img src="divya.jpg" alt="divya" style="width: 400px;"/>
 Look at me!
 
