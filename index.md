@@ -2,7 +2,7 @@
 title: Divya Ojha
 ---
 
-<img src="divya.jpg" alt="divya" style="width: 250px;"/>
+<img src="divya.jpg" alt="divya" style="width: 300px;"/>
 <br/>
 dojha@cs.rochester.edu
 <br/>
