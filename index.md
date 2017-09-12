@@ -12,4 +12,4 @@ My research interests span along the areas of system software and security.
 
 Here is my proposal for the nsf grant. My proposed work is on power efficient scheduling in the operating system.
 
-<a href="https://divyaojha.github.io/blob/master/divya_nsfproposal.pdf">nsf_proposal</a>
+<a href="https://github.com/divyaojha/divyaojha.github.io/blob/master/divya_nsfproposal.pdf">nsf_proposal</a>
