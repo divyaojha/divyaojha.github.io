@@ -10,10 +10,6 @@ dojha@cs.rochester.edu
 I am a first year PhD student in the department of Computer Science.
 My research interests span along the areas of system software and security.
 
----
-layout: page
-title: nsf_proposal
----
-Here is my proposal for the nsf grant. My proposed work is on power efficient scheduling in the operating system. (divya_nsfproposal.pdf)
+Here is my proposal for the nsf grant. My proposed work is on power efficient scheduling in the operating system.
 
-<a href="divya_nsfproposal.pdf"></a>
+<a href="https://github.com/divyaojha/divyaojha.github.io/blob/master/divya_nsfproposal.pdf"></a>
